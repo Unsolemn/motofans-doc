@@ -1,5 +1,12 @@
+###How to deploy dev-targeted motofans catalog
+1. Install Hugo.
+1. Create new site with Hugo.
+1. Clone motofans-catalog-hugo-theme into themes folder.
+1. Clone example content into content folder.
+1. Run Hugo server.
+
 ###How to configure new Hugo instance with docker.
-In most cases there is no reasons to use Hugo with docker, because Hugo installation procedure is quit simple. E.g. for Ubuntu just download hugo release from https://github.com/spf13/hugo/releases, then run:
+ most cases there is no reasons to use Hugo with docker, because Hugo installation procedure is quit simple. E.g. for Ubuntu just download hugo release from https://github.com/spf13/hugo/releases, then run:
 ```
 $ sudo dpkg -i /path/to/hugo/deb/file
 ``` 
