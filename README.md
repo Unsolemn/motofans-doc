@@ -1,4 +1,4 @@
-###How to deploy dev-targeted motofans catalog on Linux:
+###How to deploy motofans catalog for develop purposes on Linux:
 1. Install [Hugo](https://gohugo.io/overview/installing/).
 1. Run
 ```
