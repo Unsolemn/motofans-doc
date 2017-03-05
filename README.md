@@ -38,7 +38,7 @@ or
 ```
 $ umount <path/to/mount/point>
 ```
-###How to transfer dir to a bucket recursively with gsutil:
+###How to transfer local folder to a bucket recursively with gsutil:
 ```
 $ gsutil -m cp -r dir gs://my-bucket
 ```
